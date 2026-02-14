@@ -7,7 +7,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background: #f5f7fa;
-    font-size: 12.5px;
+    font-size: 15px;
     line-height: 1.5;
 }
 
@@ -41,14 +41,14 @@ body {
 
 .contacts-title{
     margin-bottom: 0px;
-    font-size: 22px;
+    font-size: 27px;
     font-weight: 700;
     line-height: 24px;
     color: #fff;
 }
 
 .contacts-link{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
     color: #fff;
@@ -78,7 +78,7 @@ body {
 
 .tech-skills-item{
     margin-left: 15px;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
     color: #fff;
@@ -104,7 +104,7 @@ body {
 
 .soft-skills-item{
     margin-left: 15px;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
     color: #fff;
@@ -130,7 +130,7 @@ body {
 
 .Languages-skills-item{
     margin-left: 15px;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
     color: #fff;
@@ -141,7 +141,7 @@ body {
 }
 
 .profession{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 700;
     line-height: 24px;
 }
@@ -155,7 +155,7 @@ body {
 }
 
 .description{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
     margin-top: 21px;
@@ -198,7 +198,7 @@ body {
 
 .profession-time{
     color: #000;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -215,7 +215,7 @@ body {
 
 .profession-duties-item{
     color: #000;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 24px;
 }
@@ -227,7 +227,7 @@ body {
 }
 
 .education-title{
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 700;
     line-height: 20px;
     margin-top: -10px;
@@ -235,7 +235,7 @@ body {
 
 .education-time{
     color: #000;
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 400;
     line-height: 24px;
     margin-top: 5px;
